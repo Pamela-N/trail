@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.Header {
+    background-image: url(../Assets/images/Screenshot_20200718_193432.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 80vh;
+    color: white;
+}
+
+.navbar{
+   position: relative;
+   bottom: 60px;
+}
+
+.nav-icons{
+    margin-top: 14px;
+    margin-right: 10px;
+}
+
+.act{
+    background-color: #EE881F;
+}
+
+h4{
+    font-family: 'Lora', serif;
+    margin: 0px 0px 32px;
+    
+}
+
+.info{
+    font-size: 45px;
+    margin: 32px 32px 0px 40px;
+    padding-bottom: 30px ;
+    
+
+}
+
+.first{
+    padding: 0px 20px 17px 17px;
+    margin: 0px 70px;
+}
+
+.inside{
+    padding: 0px 0px 17px;
+    margin: 0px 50px;
+    line-height: 2.5;
+}
+
+.again{
+    margin-top: 30px;
+    padding: 15px;
+    display: flex;
+}
+
+#para{
+    margin-left: 45px;
+}
+.About{
+    background-color: #9fda9a; 
+    padding-top: 30px;  
+}
+.quote{
+    height: 60vh;
+    padding: 10px 25px;
+}
+
+#actual{
+    font-size: 45px;
+    margin: 32px 32px 20px 40px;
+    padding-bottom: 30px ;
+}
+.grand{
+    background-image: url(../Assets/images/Volunteers-at-food-charity.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 80vh;
+    color: white;
+}
+
+button{
+    background-color: #EE881F;
+    color: white;
+    border: 2px solid #EE881F ;
+}
